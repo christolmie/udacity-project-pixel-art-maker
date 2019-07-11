@@ -2,15 +2,25 @@
 
 ## Table of Contents
 
+* [Introduction](#introduction)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 
+## Introduction
+
+The Pixel Art Maker Project is part of the Udacity Intro to Programming Nanodegree progrm. This is my submission to that programme.
+
+The task is to use what I have learned about HTML, CSS and Javascript to put together a simple tool to create artistic designs.
+
 ## Instructions
+Load the page, create a grid using the height and witch inputs, pick a colour and draw. Clicking a cell will change the color of the cell to the color you picked. There's no undo, and no way to save it, but true art is supposed to be temporary.
 
-To get started, open `designs.js` and start building out the app's functionality.
+If you want to start again, just hit the 'Refresh Grid' button.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Changing the size of the grid will also reset the grid.
+
+NOTE: On Firefox, when you pick a colour, you need to close the color picker for the new color to take effect. Other browsers don't have this "feature".
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This code is based on the starter code provided by the Udacity course, but I need to submit my own code, so there really isn't any opportunity to contribute. I would appreciate and suggestions on how I could make it better though.
